@@ -1,0 +1,10 @@
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\bin\Debug\DBDKillers.exe.config
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\bin\Debug\DBDKillers.exe
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\bin\Debug\DBDKillers.pdb
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.Form1.resources
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.Properties.Resources.resources
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.exe
+C:\Users\Luka\source\repos\DBDKillers\DBDKillers\obj\Debug\DBDKillers.pdb
